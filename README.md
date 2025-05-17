@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
   - [Trust-Reviews](https://trust-reviews.reviews/)
   - [Trust-Reviews PL](https://pl.trust-reviews.reviews/)
   - [Ratebaze](https://ratebaze.org)
+  - [Cryptobreeze](https://ratebaze.org](https://cryptobreeze.ru/)
 - 💼 [LinkedIn - John Craane](https://www.linkedin.com/in/john-craane-aa3032230/)
 - 📧 [Email me](mailto:johnnncraneee@gmail.com)
 
