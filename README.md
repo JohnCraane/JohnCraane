@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
   - [Ratebaze](https://ratebaze.org)
   - [Cryptobreeze](https://cryptobreeze.ru/)
   - [Qantiso](https://qantiso.com/)
+  - [Socreviews](https://www.socreviews.com/))
 - 💼 [LinkedIn - John Craane](https://www.linkedin.com/in/john-craane-aa3032230/)
 - 📧 [Email me](mailto:johnnncraneee@gmail.com)
 
